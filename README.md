@@ -1,2 +1,2 @@
 ## BrowserSync
-* [BrowserSync Screenshot](screenshots/browsersync.png)
+![BrowserSync Screenshot](screenshots/browsersync.png)
