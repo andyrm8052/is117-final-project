@@ -8,6 +8,10 @@ $theme-colors: (
 body {
     padding-top: 5rem;
 }
+.calloutTitle{
+    text-align: center;
+}
+
 .content {
     padding: 3rem 1.5rem;
 }
@@ -58,6 +62,7 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
+    border-style: solid;
     height: 32rem;
 }
 .carousel-item > img {
